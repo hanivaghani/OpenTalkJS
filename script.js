@@ -33,7 +33,7 @@ async function runChat() {
     const outputFilePath = "a.txt"
     fs.writeFileSync(outputFilePath, chatbotResponse, "utf-8")
 
-    console.log("Chatbot response has been saved to a.txt.")
+    console.log("Chatbot response has been saved to answer.txt.")
   } catch (error) {
     console.error("Error occurred:", error.message)
   }
