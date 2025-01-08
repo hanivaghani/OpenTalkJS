@@ -1,0 +1,36 @@
+Here's a sample bug report:
+
+**Title:** Missing "Share" Button in Social Media Section
+
+**Description:**
+
+I am experiencing an issue with the social media integration on my account. When I try to share content on various platforms, I encounter a missing button that allows me to share directly from my profile.
+
+**Steps to Reproduce:**
+
+1. Log in to my account
+2. Navigate to the "Share" or "Post" section
+3. Click on the "Share" or "Post" button (currently not available)
+4. Try to click on any other button on the same page
+
+**Expected Result:**
+
+I expect the "Share" or "Post" button to be visible and functional, allowing me to share content directly from my profile.
+
+**Actual Result:**
+
+The missing button is currently absent, making it difficult for me to share content without manually navigating to the social media integration section.
+
+**Screenshots/Diagrams:**
+
+[Insert screenshot of social media login page with missing "Share" button]
+
+**Additional Information:**
+
+I have checked our system logs and there are no errors or warnings that would indicate a technical issue. I am also checking with other users who have reported similar issues, but none of their experiences match mine.
+
+**Priority:**
+
+Low (please prioritize this bug)
+
+Thank you for your attention to this matter!

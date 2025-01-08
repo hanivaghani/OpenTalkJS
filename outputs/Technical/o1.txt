@@ -1,0 +1,115 @@
+Here's an example of code documentation:
+
+**Code Documentation Template**
+
+### Function or Method Documentation
+
+```python
+def function_name(arguments, return_value=None):
+    """
+    Description of the function.
+
+    Parameters:
+    ----------
+    arguments : list
+        List of input parameters for the function.
+    return_value : optional
+        Optional return value of the function. Defaults to None.
+
+    Returns:
+    -------
+    result : any
+        The output or result of the function.
+    """
+
+    # Function implementation here...
+```
+
+### Class Documentation
+
+```python
+class ClassName:
+    """
+    Description of the class.
+
+    Attributes:
+    ----------
+    attribute1 : any
+        Instance variable.
+    attribute2 : any
+        Another instance variable.
+
+    Methods:
+    -------
+    method_name()
+        Method to perform an action.
+    """
+
+    def __init__(self):
+        """
+        Constructor for the class.
+
+        Description of initialization process.
+        """
+        # Initialize instance variables here...
+```
+
+### Variable Documentation
+
+```python
+variable_name : any
+    """
+    Description of the variable.
+
+    Type of data stored in the variable.
+"""
+
+# Example usage:
+print(variable_name)  # Output: value_of_variable
+```
+
+### Function Signature Documentation
+
+```python
+def function_name(arguments, return_value=None):
+    """
+    Function signature documentation.
+
+    Parameters:
+    ----------
+    arguments : list
+        List of input parameters for the function.
+    return_value : optional
+        Optional return value of the function. Defaults to None.
+
+    Returns:
+    -------
+    result : any
+        The output or result of the function.
+
+    Raises:
+    ------
+    ExceptionType : Exception
+        Exception raised by the function.
+    """
+
+    # Function implementation here...
+```
+
+### Example Usage
+
+```python
+# Create a new instance variable
+new_variable = "Hello, World!"
+
+print(new_variable)  # Output: Hello, World!
+
+# Call the class method
+ClassName().my_method()
+
+# Print the return value of a function
+result = my_function()
+print(result)  # Output: The result of the function call
+```
+
+This is just a basic example of code documentation. You can add more details and formatting as per your requirements.

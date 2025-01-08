@@ -1,0 +1,73 @@
+Here are some character description templates:
+
+** Male Character**
+
+* Name: _______________________
+* Age: __________________________
+* Height: __________________________
+* Weight: __________________________
+* Hair Color: _____________________
+* Eye Color: _______________________
+* Build: __________________________
+* Personality: (e.g. introverted, outgoing, confident, etc.)
+* Physical Abilities: (e.g. athletic, skilled in a particular activity, etc.)
+
+Example:
+
+Name: Ethan Blackwood
+Age: 25
+Height: 6'2"
+Weight: 170 lbs
+Hair Color: Dark Brown
+Eye Color: Blue
+Build: Lean and muscular
+Personality: Confident, determined, with a strong sense of justice
+Physical Abilities: Skilled in hand-to-hand combat and marksmanship
+
+** Female Character**
+
+* Name: _______________________
+* Age: __________________________
+* Height: __________________________
+* Weight: __________________________
+* Hair Color: _____________________
+* Eye Color: _______________________
+* Build: __________________________
+* Personality: (e.g. introverted, outgoing, optimistic, etc.)
+* Physical Abilities: (e.g. athletic, skilled in a particular activity, etc.)
+
+Example:
+
+Name: Ava Morales
+Age: 22
+Height: 5'6"
+Weight: 120 lbs
+Hair Color: Blonde
+Eye Color: Green
+Build: Petite and agile
+Personality: Kind, empathetic, with a strong sense of morality
+Physical Abilities: Skilled in martial arts and acrobatics
+
+** Group Character**
+
+* Name: _______________________
+* Age: __________________________
+* Height: __________________________
+* Weight: __________________________
+* Hair Color: _____________________
+* Eye Color: _______________________
+* Build: __________________________
+* Personality: (e.g. leader, mediator, loyal friend, etc.)
+* Physical Abilities: (e.g. athletic, skilled in a particular activity, etc.)
+
+Example:
+
+Name: The Crew
+Age: Varies (20s-40s)
+Height: 5'8"-6'2"
+Weight: 150-200 lbs
+Hair Color: Varies (blonde, brown, red, etc.)
+Eye Color: Varies (blue, green, brown, etc.)
+Build: Varies ( athletic, muscular, slender, etc.)
+Personality: Team-oriented, supportive, and collaborative
+Physical Abilities: Varied (some are skilled in martial arts, others in acrobatics)

@@ -1,0 +1,23 @@
+I'd be happy to help you create API documentation. However, I need a bit more information from you.
+
+Could you please provide the following details:
+
+1. What is the name of your API (if any)?
+2. What type of API are you creating (e.g., RESTful API, GraphQL API, SOAP API)?
+3. Who is the target audience for this API (e.g., developers, users, administrators)?
+4. Are there any specific features or endpoints that you'd like to document?
+5. Do you have any existing documentation, such as README files or user manuals?
+6. What is the expected level of detail for the API documentation (e.g., high-level overview, detailed usage, error handling)?
+
+Once I have this information, I can help you create a comprehensive and accurate API documentation.
+
+Also, please let me know if there are any specific sections or types of documentation that you'd like to include, such as:
+
+* Endpoints with parameters
+* Request and response formats
+* Error handling and exceptions
+* Authentication and authorization
+* Code samples or examples
+* Technical details (e.g., database schema, caching mechanisms)
+
+Let's get started!
